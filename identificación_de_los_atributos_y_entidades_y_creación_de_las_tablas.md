@@ -70,3 +70,7 @@
 - 70 a 74 años  
 - 75 a 79 años  
 - 80 a más años  
+
+> **Hay una suma total de total por edad de cada una de las atenciones** integer que puede ser cero
+
+> **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero
