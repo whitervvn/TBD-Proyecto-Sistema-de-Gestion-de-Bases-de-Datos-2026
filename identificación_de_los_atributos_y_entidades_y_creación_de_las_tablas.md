@@ -3,7 +3,7 @@
 > **Fecha:** 2020 de enero a diciembre.  
 > **Con todos los servicios de las especialidades de todo el país**.
 
-> **Regiones Servicios de salud que salen:**  
+> **Servicios de salud que salen:**  
 - Arica  
 - Iquique  
 - Antofagasta  
@@ -32,4 +32,22 @@
 - Reloncaví  
 - Chiloé  
 - Aisén  
-- Magallanes
+- Magallanes  
+
+> **Tipos de atenciones que salen (no todos contienen los mismos)**  
+- arritmias  
+- diabetes  
+- cirugía de mamas  
+- alto riesgo obstetrico  
+- tratamiento anticoagulante  
+- cuidados paliativos  
+- infertilidad  
+- patologia cervical  
+- patologia de mamas  
+- adolescencia  
+- naneas  
+- its  
+- vih/sida  
+- medicinal ocupacional (salud del personal)  
+
+> **Total de atenciones por cada tipo de atencion separados por cada servicio de salud:** integer que puede ser cero
