@@ -1,4 +1,4 @@
-### REM - 07
+### REM - 07 Atención de especialidades
 #### 1. Identificación de los datos
 > **Fecha:** 2020 de enero a diciembre.  
 > **Con todos los servicios de las especialidades de todo el país**.
@@ -74,3 +74,6 @@
 > **Hay una suma total de total por edad de cada una de las atenciones** integer que puede ser cero
 
 > **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero
+
+#### Modelo entidad relación
+![REM-07](./images/Screenshot%202026-05-21%20122204.png)
