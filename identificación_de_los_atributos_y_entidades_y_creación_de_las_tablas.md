@@ -76,4 +76,4 @@
 > **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero
 
 #### Modelo entidad relación
-![REM-07](./images/Screenshot%202026-05-21%20122204.png)
+![REM-07](./images/REM07.png)
