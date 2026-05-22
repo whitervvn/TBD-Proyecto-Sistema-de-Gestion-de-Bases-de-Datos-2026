@@ -186,8 +186,7 @@ Para los cuatro años 2020 a 2024 se tiene
 integer que va desde 1 a 10  
 > **Tramo capital propio negativo**  
 intger que va desde 1 a 10  
-> **Rubro economico**  
-=ORDENAR(UNICOS(L:L))  
+> **Rubro economico**   
 > **Subrubro economico**  
 > **Acitividad economico**  
 > **Region** 
@@ -630,4 +629,7 @@ intger que va desde 1 a 10
 > **R_presunta**  
 - REGIMEN RENTA PRESUNTA 
 > **Otros regimenes**    
-- 
+- REGIMEN GENERAL SEMI INTEGRADO (14A)
+- REGIMEN PRO PYME GENERAL (14D)
+- REGIMEN PRO PYME TRANSPARENTE (14D NÂ°8)
+- CONTRIBUYENTES NO SUJETOS AL ARTICULO 14
