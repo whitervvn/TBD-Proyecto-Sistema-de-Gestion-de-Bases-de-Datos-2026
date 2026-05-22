@@ -71,9 +71,42 @@
 - 75 a 79 años  
 - 80 a más años  
 
-> **Hay una suma total de total por edad de cada una de las atenciones** integer que puede ser cero
-
-> **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero
-
+> **Hay una suma total de total por edad de cada una de las atenciones** integer que puede ser cero  
+> **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero  
 #### Modelo entidad relación
 ![REM-07](./images/REM07.png)
+
+### Resumen Estadístico Mensual (REM) por Establecimiento Salud REM-07. ATENCIÓN DE ESPECIALIDADES 2020 Servicios
+
+### Capítulo I: (cuadro 25) SUCESO Estadísticas de la Seguridad Social 2024 NÚMERO DE ACCIDENTES DEL TRABAJO, DE TRAYECTO Y DE ENFERMEDADES PROFESIONALES SEGÚN ACTIVIDAD ECONÓMICA  
+> NÚMERO DE ACCIDENTES DEL TRABAJO, DE TRAYECTO Y DE ENFERMEDADES PROFESIONALES SEGÚN ACTIVIDAD ECONÓMICA Y SEXO  
+#### 1. Identificación de los datos
+> **Actividades economicas que salen:**  
+- Accidentes de trabajo  
+- Accidentes de trayecto  
+- Accidentes de trabajo y trayecto  
+- Enfermedades profesionales  
+> **Hombres:**  
+cantidad de hombres por subtipo
+> **Mujeres:**  
+cantidad de mujeres por subtipo
+
+> **Total por subtipo de actividad economica:**  
+> **Tipos de trabajo:**  
+- Agricultura, ganadería, caza y silvicultura
+- Pesca
+- Explotación de minas y canteras
+- Industrias manufactureras
+- Suministro de electricidad, gas y agua
+- Construcción
+- Comercio, reparación de vehículos y otros
+- Hoteles y restaurantes
+- Transporte, almacenamiento y comunicaciones
+- Intermediación financiera
+- Actividades inmobiliarias, empresariales y de alquiler
+- Administración publica y defensa; planes de seguridad social
+- Enseñanza
+- Servicios sociales y de salud
+- Otras actividades de servicios comunitarios, sociales y personales
+- Organizaciones y órganos extraterritoriales
+- Hogares privados con servicio doméstico
