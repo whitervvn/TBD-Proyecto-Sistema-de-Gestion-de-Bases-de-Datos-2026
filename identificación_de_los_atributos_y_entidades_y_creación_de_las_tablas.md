@@ -110,7 +110,8 @@ cantidad de mujeres por subtipo
 - Otras actividades de servicios comunitarios, sociales y personales
 - Organizaciones y órganos extraterritoriales
 - Hogares privados con servicio doméstico
-
+#### Modelo entidad relación
+![REM-07](./images/cuadro25.png)
 #### NÚMERO DE FALLECIDOS POR ACCIDENTES DEL TRABAJO SEGÚN TIPO DE ACCIDENTE Y ORGANISMO ADMINISTRADOR (1)
 > **Tipo de accidente**  
 - accidentes trabajo  
