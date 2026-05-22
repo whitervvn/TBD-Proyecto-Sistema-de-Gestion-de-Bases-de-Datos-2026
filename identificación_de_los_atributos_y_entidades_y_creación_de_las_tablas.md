@@ -110,3 +110,18 @@ cantidad de mujeres por subtipo
 - Otras actividades de servicios comunitarios, sociales y personales
 - Organizaciones y órganos extraterritoriales
 - Hogares privados con servicio doméstico
+
+#### NÚMERO DE FALLECIDOS POR ACCIDENTES DEL TRABAJO SEGÚN TIPO DE ACCIDENTE Y ORGANISMO ADMINISTRADOR (1)
+> **Tipo de accidente**  
+- accidentes trabajo  
+- accidentes trayecto  
+- trabajo y trayceto  
+> **Nombre de los organismos administradores**  
+- asociacion chilena de seguridad
+- mutual de seguridad c.ch.c.
+- instituto seguridad del trabajo
+- instituto seguridad laboral
+> **Año**  
+> **Totales**  
+#### Modelo entidad relación
+![REM-07](./images/cuadro40.png)
