@@ -74,7 +74,7 @@
 > **Hay una suma total de total por edad de cada una de las atenciones** integer que puede ser cero  
 > **Hay una suma total por tipo de atencion con cada una de las edades** integer que puede ser cero  
 #### Modelo entidad relación
-![REM-07](./images/REM07.png)
+![REM-07](./images/REM_07.png)
 
 ### Resumen Estadístico Mensual (REM) por Establecimiento Salud REM-07. ATENCIÓN DE ESPECIALIDADES 2020 Servicios
 
