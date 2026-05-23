@@ -130,6 +130,11 @@ cantidad de mujeres por subtipo
 #### Empresas  
 #### 1. Identificación de los datos  
 Para los cuatro años 2020 a 2024 se tiene  
+> **Año comercial**  
+2020, 2021, 2022, 2023, 2024  
+> **RUT**  
+> **DV**  
+> **Razon social** varchar, corresponde al nombre de la empresa  
 > **Tramo según ventas** integer que va desde 1 hasta 13  
 > **Número de trabajadores dependientes**  integer que va desde cero  
 > **Fecha inicio de actividades vigentes**  date  
@@ -187,7 +192,28 @@ integer que va desde 1 a 10
 > **Tramo capital propio negativo**  
 intger que va desde 1 a 10  
 > **Rubro economico**   
-> **Subrubro economico**  
+- ACTIVIDADES DE ATENCION DE LA SALUD HUMANA Y DE ASISTENCIA SOCIAL
+- TRANSPORTE Y ALMACENAMIENTO
+- INDUSTRIA MANUFACTURERA
+- ACTIVIDADES DE ALOJAMIENTO Y DE SERVICIO DE COMIDAS
+- OTRAS ACTIVIDADES DE SERVICIOS
+- COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACION DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS
+- ACTIVIDADES INMOBILIARIAS
+- Valor por Defecto
+- ACTIVIDADES PROFESIONALES, CIENTIFICAS Y TECNICAS
+- ACTIVIDADES DE SERVICIOS ADMINISTRATIVOS Y DE APOYO
+- AGRICULTURA, GANADERIA, SILVICULTURA Y PESCA
+- INFORMACION Y COMUNICACIONES
+- ENSEÃ‘ANZA
+- CONSTRUCCION
+- ACTIVIDADES ARTISTICAS, DE ENTRETENIMIENTO Y RECREATIVAS
+- SUMINISTRO DE AGUA; EVACUACION DE AGUAS RESIDUALES, GESTION DE DESECHOS Y DESCONTAMINACION
+- TRANSPORTE Y ALMACENAMIENTO
+- ACTIVIDADES FINANCIERAS Y DE SEGUROS
+- ADMINISTRACION PUBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACION OBLIGATORIA
+- ACTIVIDADES DE ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES  
+> **Subrubro economico** 
+-  
 > **Acitividad economico**  
 > **Region** 
 - XV REGION ARICA Y PARINACOTA
