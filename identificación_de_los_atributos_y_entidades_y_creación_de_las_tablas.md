@@ -93,23 +93,23 @@ cantidad de mujeres por subtipo
 
 > **Total por subtipo de actividad economica:**  
 > **Tipos de trabajo:**  
-- Agricultura, ganadería, caza y silvicultura
-- Pesca
-- Explotación de minas y canteras
-- Industrias manufactureras
-- Suministro de electricidad, gas y agua
-- Construcción
-- Comercio, reparación de vehículos y otros
-- Hoteles y restaurantes
-- Transporte, almacenamiento y comunicaciones
-- Intermediación financiera
 - Actividades inmobiliarias, empresariales y de alquiler
 - Administración publica y defensa; planes de seguridad social
+- Agricultura, ganadería, caza y silvicultura
+- Comercio, reparación de vehículos y otros
+- Construcción
 - Enseñanza
-- Servicios sociales y de salud
+- Explotación de minas y canteras
+- Hogares privados con servicio doméstico
+- Hoteles y restaurantes
+- Industrias manufactureras
+- Intermediación financiera
 - Otras actividades de servicios comunitarios, sociales y personales
 - Organizaciones y órganos extraterritoriales
-- Hogares privados con servicio doméstico
+- Pesca
+- Servicios sociales y de salud
+- Suministro de electricidad, gas y agua
+- Transporte, almacenamiento y comunicaciones
 #### Modelo entidad relación
 ![REM-07](./images/cuadro25.png)
 #### NÚMERO DE FALLECIDOS POR ACCIDENTES DEL TRABAJO SEGÚN TIPO DE ACCIDENTE Y ORGANISMO ADMINISTRADOR (1)
